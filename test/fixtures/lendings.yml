@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  recipient_email: MyString
+  lend_at: 2017-07-29 14:52:04
+  return_at: 2017-07-29 14:52:04
+  borrowed: 
+
+two:
+  product: two
+  recipient_email: MyString
+  lend_at: 2017-07-29 14:52:04
+  return_at: 2017-07-29 14:52:04
+  borrowed: 
